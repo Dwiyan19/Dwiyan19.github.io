@@ -1,0 +1,58 @@
+/* html {
+    background-color: aqua;
+} */
+
+
+.jumbotron {
+    background: aqua;
+    padding-top: 5rem;
+    /* padding: 5em 20rem; */
+}
+
+/* @media (max-width: 576px) .jumbotronImg {
+    height: 150px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+} */
+
+.profile {
+    box-shadow: 4px 15px 4px rgba(61, 144, 238, 0.5);
+    width: 300px;
+}
+
+.photo,
+.card-panel {
+    border-radius: 27px !important;
+}
+
+.sosial-media {
+    font-size: 30px;
+    padding-top: 1rem;
+    margin-left: auto;
+}
+
+
+hr {
+    width: 10%;
+}
+
+.card-panel {
+    background: #fffdfd;
+    box-shadow: 12px 12px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    width: 50%;
+}
+
+.hobbies-text .container {
+    font-family: "Segoe UI Bold", Arial, sans-serif;
+    font-weight: bold;
+}
+
+#footer {
+    background: aqua;
+    padding-bottom: 2px;
+}
+
+.card-img {
+    border-radius: 30px;
+}
